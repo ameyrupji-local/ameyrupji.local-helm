@@ -1,5 +1,4 @@
 # ameyrupji.local-helm
-
 This repository outlines the steps to setup Helm on the Kubernetes cluster on MacOS.
 
 ## Prerequisites 
@@ -60,4 +59,3 @@ Tiller can then be re-installed from the client with: `helm init`
 - https://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-ci-server-on-osx
 - https://wiki.jenkins.io/display/JENKINS/Jenkins+behind+an+NGinX+reverse+proxy
 - https://medium.com/okteto/develop-helm-applications-directly-in-your-kubernetes-cluster-cb385aa8328f
-
