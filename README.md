@@ -29,7 +29,7 @@ Tiller, the server portion of Helm, typically runs inside of your Kubernetes clu
 
 Run the following command on the terminal to initialize Helm: `helm init` and install Tiller.
 
-This should install and start up tiller pod. To view if the pod is running run the following command: `get pods --namespace kube-system`
+This should install and start up tiller pod. To view if the pod is running run the following command: `kubectl get pods --namespace kube-system`
 
 ![terminal helm init](images/terminal-helm-init.png) 
 
